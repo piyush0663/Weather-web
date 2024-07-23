@@ -6,7 +6,7 @@ body {
     margin: 0;
     background: #222;
     font-family: 'Open Sans', sans-serif;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-image: url('http://api.weatherapi.com/v1/current.json?key=1c6fa805300b4c779bd55016242307&q=india&aqi=no');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
